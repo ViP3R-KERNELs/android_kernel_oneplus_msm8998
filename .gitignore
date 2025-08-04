@@ -58,6 +58,17 @@ Module.symvers
 /debian/
 
 #
+# Out of the Tree Drivers
+#
+drivers/staging/rtl8188eus/
+drivers/staging/rtl8188fu/
+drivers/staging/rtl8192eu/
+drivers/staging/rtl8812au/
+drivers/staging/rtl8814au/
+drivers/staging/rtl88x2bu/
+
+
+#
 # tar directory (make tar*-pkg)
 #
 /tar-install/
